@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstcalcuLetra", "EncrytpionDecryption\FirstcalcuLetra.csproj", "{09638D40-2368-4B04-971B-E84369AFD6B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbabilityBLL", "ProbabilityBLL\ProbabilityBLL.csproj", "{AD5AD42A-ED57-4992-BA59-B6CD55BD97CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbabilityDAL", "ProbabilityDAL\ProbabilityDAL.csproj", "{B814A50B-E861-44C7-A34D-397B88805EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbabilityBussinessObjectLayer", "ProbabilityBussinessObjectLayer\ProbabilityBussinessObjectLayer.csproj", "{C7B280C2-AF73-42BF-81D0-94B9FBFDB665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09638D40-2368-4B04-971B-E84369AFD6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09638D40-2368-4B04-971B-E84369AFD6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09638D40-2368-4B04-971B-E84369AFD6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09638D40-2368-4B04-971B-E84369AFD6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5AD42A-ED57-4992-BA59-B6CD55BD97CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5AD42A-ED57-4992-BA59-B6CD55BD97CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5AD42A-ED57-4992-BA59-B6CD55BD97CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5AD42A-ED57-4992-BA59-B6CD55BD97CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B814A50B-E861-44C7-A34D-397B88805EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B814A50B-E861-44C7-A34D-397B88805EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B814A50B-E861-44C7-A34D-397B88805EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B814A50B-E861-44C7-A34D-397B88805EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B280C2-AF73-42BF-81D0-94B9FBFDB665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B280C2-AF73-42BF-81D0-94B9FBFDB665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B280C2-AF73-42BF-81D0-94B9FBFDB665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B280C2-AF73-42BF-81D0-94B9FBFDB665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Visual Studio 2012\Projects\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe.config
+D:\Visual Studio 2012\Projects\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmLogin.resources
+D:\Visual Studio 2012\Projects\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmMainForm.resources
+D:\Visual Studio 2012\Projects\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe
+D:\Visual Studio 2012\Projects\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.pdb
+D:\Visual Studio 2012\Projects\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.exe
+D:\Visual Studio 2012\Projects\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.pdb
+D:\Visual Studio 2012\Projects\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.csprojResolveAssemblyReference.cache

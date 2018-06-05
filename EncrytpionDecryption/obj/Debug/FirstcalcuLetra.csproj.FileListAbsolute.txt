@@ -1,0 +1,124 @@
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe.config
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.pdb
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityBLL.dll
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityBussinessObjectLayer.dll
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityDAL.dll
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityBLL.pdb
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityDAL.pdb
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmcalculator.resources
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmEntropy.resources
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmLogin.resources
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmMainForm.resources
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmShowDataBase.resources
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.Properties.Resources.resources
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.GenerateResource.Cache
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.exe
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.pdb
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmProbabilityScale.resources
+C:\Users\Zahid\Desktop\Meu amor's Project\EncrytpionDecryption\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\GlassButton.dll
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csprojResolveAssemblyReference.cache
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmcalculator.resources
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmEntropy.resources
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmLogin.resources
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmMainForm.resources
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmProbabilityScale.resources
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmShowDataBase.resources
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.Properties.Resources.resources
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.GenerateResource.Cache
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe.config
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.pdb
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityBLL.dll
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityBussinessObjectLayer.dll
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityDAL.dll
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityBLL.pdb
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\bin\Debug\ProbabilityDAL.pdb
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.exe
+E:\First calculatera on 16 June\EncrytpionDecryption\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.pdb
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe.config
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.exe
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.pdb
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csprojResolveAssemblyReference.cache
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmcalculator.resources
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmEntropy.resources
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmLogin.resources
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmMainForm.resources
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmProbabilityScale.resources
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmShowDataBase.resources
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.Properties.Resources.resources
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.GenerateResource.Cache
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.pdb
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityBLL.dll
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityBussinessObjectLayer.dll
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityDAL.dll
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityBLL.pdb
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityDAL.pdb
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.ResolveComReference.cache
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\ExcelDataReader.dll
+C:\Users\zains\Desktop\zahid\calculaterathesis\EncrytpionDecryption\bin\Debug\ExcelDataReader.xml
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csprojResolveAssemblyReference.cache
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe.config
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\Interop.Microsoft.Office.Core.dll
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.ResolveComReference.cache
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmcalculator.resources
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmEntropy.resources
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmLogin.resources
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmMainForm.resources
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmProbabilityScale.resources
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmShowDataBase.resources
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.Properties.Resources.resources
+G:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.GenerateResource.Cache
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csprojResolveAssemblyReference.cache
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\Interop.Microsoft.Office.Core.dll
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.ResolveComReference.cache
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmcalculator.resources
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmEntropy.resources
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmLogin.resources
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmMainForm.resources
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmProbabilityScale.resources
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmShowDataBase.resources
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.Properties.Resources.resources
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.GenerateResource.Cache
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe.config
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.pdb
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\ExcelDataReader.dll
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\ProbabilityBLL.dll
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\ProbabilityBussinessObjectLayer.dll
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\ProbabilityDAL.dll
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\ProbabilityBLL.pdb
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\ExcelDataReader.xml
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\bin\Debug\ProbabilityDAL.pdb
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.exe
+K:\Calculatera Supported Files\Caculatera\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.pdb
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe.config
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.pdb
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\ExcelDataReader.dll
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityBLL.dll
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityBussinessObjectLayer.dll
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityDAL.dll
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityBLL.pdb
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\ExcelDataReader.xml
+C:\calculaterathesis\EncrytpionDecryption\bin\Debug\ProbabilityDAL.pdb
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csprojResolveAssemblyReference.cache
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.ResolveComReference.cache
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmcalculator.resources
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmEntropy.resources
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmLogin.resources
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmMainForm.resources
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmProbabilityScale.resources
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.frmShowDataBase.resources
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.Properties.Resources.resources
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.GenerateResource.Cache
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.exe
+C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.pdb

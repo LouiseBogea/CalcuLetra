@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsShowScale" targetNamespace="http://tempuri.org/dsShowScale.xsd" xmlns:mstns="http://tempuri.org/dsShowScale.xsd" xmlns="http://tempuri.org/dsShowScale.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsShowScale" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsShowScale" msprop:Generator_UserDSName="dsShowScale">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtShowScale" msprop:Generator_TableClassName="dtShowScaleDataTable" msprop:Generator_TableVarName="tabledtShowScale" msprop:Generator_TablePropName="dtShowScale" msprop:Generator_RowDeletingName="dtShowScaleRowDeleting" msprop:Generator_RowChangingName="dtShowScaleRowChanging" msprop:Generator_RowEvHandlerName="dtShowScaleRowChangeEventHandler" msprop:Generator_RowDeletedName="dtShowScaleRowDeleted" msprop:Generator_UserTableName="dtShowScale" msprop:Generator_RowChangedName="dtShowScaleRowChanged" msprop:Generator_RowEvArgName="dtShowScaleRowChangeEvent" msprop:Generator_RowClassName="dtShowScaleRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Word" msprop:Generator_ColumnVarNameInTable="columnWord" msprop:Generator_ColumnPropNameInRow="Word" msprop:Generator_ColumnPropNameInTable="WordColumn" msprop:Generator_UserColumnName="Word" type="xs:string" minOccurs="0" />
+              <xs:element name="Frequency" msprop:Generator_ColumnVarNameInTable="columnFrequency" msprop:Generator_ColumnPropNameInRow="Frequency" msprop:Generator_ColumnPropNameInTable="FrequencyColumn" msprop:Generator_UserColumnName="Frequency" type="xs:string" minOccurs="0" />
+              <xs:element name="Probability" msprop:Generator_ColumnVarNameInTable="columnProbability" msprop:Generator_ColumnPropNameInRow="Probability" msprop:Generator_ColumnPropNameInTable="ProbabilityColumn" msprop:Generator_UserColumnName="Probability" type="xs:string" minOccurs="0" />
+              <xs:element name="KnowingProbability" msprop:Generator_ColumnVarNameInTable="columnKnowingProbability" msprop:Generator_ColumnPropNameInRow="KnowingProbability" msprop:Generator_ColumnPropNameInTable="KnowingProbabilityColumn" msprop:Generator_UserColumnName="KnowingProbability" type="xs:string" minOccurs="0" />
+              <xs:element name="NotKnowingProbability" msprop:Generator_ColumnVarNameInTable="columnNotKnowingProbability" msprop:Generator_ColumnPropNameInRow="NotKnowingProbability" msprop:Generator_ColumnPropNameInTable="NotKnowingProbabilityColumn" msprop:Generator_UserColumnName="NotKnowingProbability" type="xs:string" minOccurs="0" />
+              <xs:element name="InformationQuantity" msprop:Generator_ColumnVarNameInTable="columnInformationQuantity" msprop:Generator_ColumnPropNameInRow="InformationQuantity" msprop:Generator_ColumnPropNameInTable="InformationQuantityColumn" msprop:Generator_UserColumnName="InformationQuantity" type="xs:string" minOccurs="0" />
+              <xs:element name="FinalEntropia" msprop:Generator_ColumnVarNameInTable="columnFinalEntropia" msprop:Generator_ColumnPropNameInRow="FinalEntropia" msprop:Generator_ColumnPropNameInTable="FinalEntropiaColumn" msprop:Generator_UserColumnName="FinalEntropia" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

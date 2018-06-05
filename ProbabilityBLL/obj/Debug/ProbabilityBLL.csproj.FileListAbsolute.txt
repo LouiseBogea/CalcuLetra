@@ -1,0 +1,72 @@
+D:\Visual Studio 2012\Projects\Louise Bogea Projects\Probability Calculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\Louise Bogea Projects\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBLL.dll
+D:\Visual Studio 2012\Projects\Louise Bogea Projects\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBLL.pdb
+D:\Visual Studio 2012\Projects\Louise Bogea Projects\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.dll
+D:\Visual Studio 2012\Projects\Louise Bogea Projects\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityDAL.dll
+D:\Visual Studio 2012\Projects\Louise Bogea Projects\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+D:\Visual Studio 2012\Projects\Louise Bogea Projects\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityDAL.pdb
+D:\Visual Studio 2012\Projects\Louise Bogea Projects\Probability Calculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.dll
+D:\Visual Studio 2012\Projects\Louise Bogea Projects\Probability Calculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.pdb
+E:\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBLL.dll
+E:\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBLL.pdb
+E:\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.dll
+E:\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityDAL.dll
+E:\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+E:\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityDAL.pdb
+E:\Probability Calculatera\Probability Calculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.csprojResolveAssemblyReference.cache
+E:\Probability Calculatera\Probability Calculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.dll
+E:\Probability Calculatera\Probability Calculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.pdb
+C:\Users\Zahid\Desktop\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBLL.dll
+C:\Users\Zahid\Desktop\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBLL.pdb
+C:\Users\Zahid\Desktop\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.dll
+C:\Users\Zahid\Desktop\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityDAL.dll
+C:\Users\Zahid\Desktop\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+C:\Users\Zahid\Desktop\Probability Calculatera\Probability Calculatera\ProbabilityBLL\bin\Debug\ProbabilityDAL.pdb
+C:\Users\Zahid\Desktop\Probability Calculatera\Probability Calculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\Desktop\Probability Calculatera\Probability Calculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.dll
+C:\Users\Zahid\Desktop\Probability Calculatera\Probability Calculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.pdb
+E:\First calculatera on 16 June\EncrytpionDecryption\ProbabilityBLL\bin\Debug\ProbabilityBLL.dll
+E:\First calculatera on 16 June\EncrytpionDecryption\ProbabilityBLL\bin\Debug\ProbabilityBLL.pdb
+E:\First calculatera on 16 June\EncrytpionDecryption\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.dll
+E:\First calculatera on 16 June\EncrytpionDecryption\ProbabilityBLL\bin\Debug\ProbabilityDAL.dll
+E:\First calculatera on 16 June\EncrytpionDecryption\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+E:\First calculatera on 16 June\EncrytpionDecryption\ProbabilityBLL\bin\Debug\ProbabilityDAL.pdb
+E:\First calculatera on 16 June\EncrytpionDecryption\ProbabilityBLL\obj\Debug\ProbabilityBLL.csprojResolveAssemblyReference.cache
+E:\First calculatera on 16 June\EncrytpionDecryption\ProbabilityBLL\obj\Debug\ProbabilityBLL.dll
+E:\First calculatera on 16 June\EncrytpionDecryption\ProbabilityBLL\obj\Debug\ProbabilityBLL.pdb
+C:\Users\zains\Desktop\zahid\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityBLL.dll
+C:\Users\zains\Desktop\zahid\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityBLL.pdb
+C:\Users\zains\Desktop\zahid\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.dll
+C:\Users\zains\Desktop\zahid\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityDAL.dll
+C:\Users\zains\Desktop\zahid\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+C:\Users\zains\Desktop\zahid\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityDAL.pdb
+C:\Users\zains\Desktop\zahid\calculaterathesis\ProbabilityBLL\obj\Debug\ProbabilityBLL.csprojResolveAssemblyReference.cache
+C:\Users\zains\Desktop\zahid\calculaterathesis\ProbabilityBLL\obj\Debug\ProbabilityBLL.dll
+C:\Users\zains\Desktop\zahid\calculaterathesis\ProbabilityBLL\obj\Debug\ProbabilityBLL.pdb
+G:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityBLL.dll
+G:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityBLL.pdb
+G:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.dll
+G:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityDAL.dll
+G:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+G:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityDAL.pdb
+G:\Calculatera Supported Files\Caculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.csprojResolveAssemblyReference.cache
+G:\Calculatera Supported Files\Caculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.dll
+G:\Calculatera Supported Files\Caculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.pdb
+K:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityBLL.dll
+K:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityBLL.pdb
+K:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.dll
+K:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityDAL.dll
+K:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+K:\Calculatera Supported Files\Caculatera\ProbabilityBLL\bin\Debug\ProbabilityDAL.pdb
+K:\Calculatera Supported Files\Caculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.csprojResolveAssemblyReference.cache
+K:\Calculatera Supported Files\Caculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.dll
+K:\Calculatera Supported Files\Caculatera\ProbabilityBLL\obj\Debug\ProbabilityBLL.pdb
+C:\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityBLL.dll
+C:\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityBLL.pdb
+C:\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.dll
+C:\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityDAL.dll
+C:\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+C:\calculaterathesis\ProbabilityBLL\bin\Debug\ProbabilityDAL.pdb
+C:\calculaterathesis\ProbabilityBLL\obj\Debug\ProbabilityBLL.csprojResolveAssemblyReference.cache
+C:\calculaterathesis\ProbabilityBLL\obj\Debug\ProbabilityBLL.dll
+C:\calculaterathesis\ProbabilityBLL\obj\Debug\ProbabilityBLL.pdb

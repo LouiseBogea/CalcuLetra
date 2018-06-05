@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDistinctWords" targetNamespace="http://tempuri.org/dsDistinctWords.xsd" xmlns:mstns="http://tempuri.org/dsDistinctWords.xsd" xmlns="http://tempuri.org/dsDistinctWords.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDistinctWords" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsDistinctWords" msprop:Generator_UserDSName="dsDistinctWords">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblWordsPb" msprop:Generator_TableClassName="tblWordsPbDataTable" msprop:Generator_TableVarName="tabletblWordsPb" msprop:Generator_RowChangedName="tblWordsPbRowChanged" msprop:Generator_TablePropName="tblWordsPb" msprop:Generator_RowDeletingName="tblWordsPbRowDeleting" msprop:Generator_RowChangingName="tblWordsPbRowChanging" msprop:Generator_RowEvHandlerName="tblWordsPbRowChangeEventHandler" msprop:Generator_RowDeletedName="tblWordsPbRowDeleted" msprop:Generator_RowClassName="tblWordsPbRow" msprop:Generator_UserTableName="tblWordsPb" msprop:Generator_RowEvArgName="tblWordsPbRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Word" msprop:Generator_ColumnVarNameInTable="columnWord" msprop:Generator_ColumnPropNameInRow="Word" msprop:Generator_ColumnPropNameInTable="WordColumn" msprop:Generator_UserColumnName="Word" type="xs:string" minOccurs="0" />
+              <xs:element name="Frequency" msprop:Generator_ColumnVarNameInTable="columnFrequency" msprop:Generator_ColumnPropNameInRow="Frequency" msprop:Generator_ColumnPropNameInTable="FrequencyColumn" msprop:Generator_UserColumnName="Frequency" type="xs:string" minOccurs="0" />
+              <xs:element name="Probability" msprop:Generator_ColumnVarNameInTable="columnProbability" msprop:Generator_ColumnPropNameInRow="Probability" msprop:Generator_ColumnPropNameInTable="ProbabilityColumn" msprop:Generator_UserColumnName="Probability" type="xs:string" minOccurs="0" />
+              <xs:element name="KnowingProbability" msprop:Generator_ColumnVarNameInTable="columnKnowingProbability" msprop:Generator_ColumnPropNameInRow="KnowingProbability" msprop:Generator_ColumnPropNameInTable="KnowingProbabilityColumn" msprop:Generator_UserColumnName="KnowingProbability" type="xs:string" minOccurs="0" />
+              <xs:element name="NotknowingProbability" msprop:Generator_ColumnVarNameInTable="columnNotknowingProbability" msprop:Generator_ColumnPropNameInRow="NotknowingProbability" msprop:Generator_ColumnPropNameInTable="NotknowingProbabilityColumn" msprop:Generator_UserColumnName="NotknowingProbability" type="xs:string" minOccurs="0" />
+              <xs:element name="InformationQuantity" msprop:Generator_ColumnVarNameInTable="columnInformationQuantity" msprop:Generator_ColumnPropNameInRow="InformationQuantity" msprop:Generator_ColumnPropNameInTable="InformationQuantityColumn" msprop:Generator_UserColumnName="InformationQuantity" type="xs:string" minOccurs="0" />
+              <xs:element name="CommunicationEntropy" msprop:Generator_ColumnVarNameInTable="columnCommunicationEntropy" msprop:Generator_ColumnPropNameInRow="CommunicationEntropy" msprop:Generator_ColumnPropNameInTable="CommunicationEntropyColumn" msprop:Generator_UserColumnName="CommunicationEntropy" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tblDistinctWords" msprop:Generator_TableClassName="tblDistinctWordsDataTable" msprop:Generator_TableVarName="tabletblDistinctWords" msprop:Generator_TablePropName="tblDistinctWords" msprop:Generator_RowDeletingName="tblDistinctWordsRowDeleting" msprop:Generator_RowChangingName="tblDistinctWordsRowChanging" msprop:Generator_RowEvHandlerName="tblDistinctWordsRowChangeEventHandler" msprop:Generator_RowDeletedName="tblDistinctWordsRowDeleted" msprop:Generator_UserTableName="tblDistinctWords" msprop:Generator_RowChangedName="tblDistinctWordsRowChanged" msprop:Generator_RowEvArgName="tblDistinctWordsRowChangeEvent" msprop:Generator_RowClassName="tblDistinctWordsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Word" msprop:Generator_ColumnVarNameInTable="columnWord" msprop:Generator_ColumnPropNameInRow="Word" msprop:Generator_ColumnPropNameInTable="WordColumn" msprop:Generator_UserColumnName="Word" type="xs:string" minOccurs="0" />
+              <xs:element name="Frequency" msprop:Generator_ColumnVarNameInTable="columnFrequency" msprop:Generator_ColumnPropNameInRow="Frequency" msprop:Generator_ColumnPropNameInTable="FrequencyColumn" msprop:Generator_UserColumnName="Frequency" type="xs:string" minOccurs="0" />
+              <xs:element name="Probability" msprop:Generator_ColumnVarNameInTable="columnProbability" msprop:Generator_ColumnPropNameInRow="Probability" msprop:Generator_ColumnPropNameInTable="ProbabilityColumn" msprop:Generator_UserColumnName="Probability" type="xs:string" minOccurs="0" />
+              <xs:element name="KnowingProbability" msprop:Generator_ColumnVarNameInTable="columnKnowingProbability" msprop:Generator_ColumnPropNameInRow="KnowingProbability" msprop:Generator_ColumnPropNameInTable="KnowingProbabilityColumn" msprop:Generator_UserColumnName="KnowingProbability" type="xs:string" minOccurs="0" />
+              <xs:element name="NotknowingProbability" msprop:Generator_ColumnVarNameInTable="columnNotknowingProbability" msprop:Generator_ColumnPropNameInRow="NotknowingProbability" msprop:Generator_ColumnPropNameInTable="NotknowingProbabilityColumn" msprop:Generator_UserColumnName="NotknowingProbability" type="xs:string" minOccurs="0" />
+              <xs:element name="InformationQuantity" msprop:Generator_ColumnVarNameInTable="columnInformationQuantity" msprop:Generator_ColumnPropNameInRow="InformationQuantity" msprop:Generator_ColumnPropNameInTable="InformationQuantityColumn" msprop:Generator_UserColumnName="InformationQuantity" type="xs:string" minOccurs="0" />
+              <xs:element name="CommunicationEntropy" msprop:Generator_ColumnVarNameInTable="columnCommunicationEntropy" msprop:Generator_ColumnPropNameInRow="CommunicationEntropy" msprop:Generator_ColumnPropNameInTable="CommunicationEntropyColumn" msprop:Generator_UserColumnName="CommunicationEntropy" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
