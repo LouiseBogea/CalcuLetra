@@ -54,3 +54,10 @@ C:\calculaterathesis\ProbabilityDAL\bin\Debug\ProbabilityBussinessObjectLayer.pd
 C:\calculaterathesis\ProbabilityDAL\obj\Debug\ProbabilityDAL.csprojResolveAssemblyReference.cache
 C:\calculaterathesis\ProbabilityDAL\obj\Debug\ProbabilityDAL.dll
 C:\calculaterathesis\ProbabilityDAL\obj\Debug\ProbabilityDAL.pdb
+C:\Users\cliente\calculetra\ProbabilityDAL\bin\Debug\ProbabilityDAL.dll
+C:\Users\cliente\calculetra\ProbabilityDAL\bin\Debug\ProbabilityDAL.pdb
+C:\Users\cliente\calculetra\ProbabilityDAL\bin\Debug\ProbabilityBussinessObjectLayer.dll
+C:\Users\cliente\calculetra\ProbabilityDAL\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+C:\Users\cliente\calculetra\ProbabilityDAL\obj\Debug\ProbabilityDAL.csprojResolveAssemblyReference.cache
+C:\Users\cliente\calculetra\ProbabilityDAL\obj\Debug\ProbabilityDAL.dll
+C:\Users\cliente\calculetra\ProbabilityDAL\obj\Debug\ProbabilityDAL.pdb

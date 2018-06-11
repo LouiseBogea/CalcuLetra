@@ -34,3 +34,8 @@ C:\calculaterathesis\ProbabilityBussinessObjectLayer\bin\Debug\ProbabilityBussin
 C:\calculaterathesis\ProbabilityBussinessObjectLayer\obj\Debug\ProbabilityBussinessObjectLayer.dll
 C:\calculaterathesis\ProbabilityBussinessObjectLayer\obj\Debug\ProbabilityBussinessObjectLayer.pdb
 C:\calculaterathesis\ProbabilityBussinessObjectLayer\obj\Debug\ProbabilityBussinessObjectLayer.csprojResolveAssemblyReference.cache
+C:\Users\cliente\calculetra\ProbabilityBussinessObjectLayer\bin\Debug\ProbabilityBussinessObjectLayer.dll
+C:\Users\cliente\calculetra\ProbabilityBussinessObjectLayer\bin\Debug\ProbabilityBussinessObjectLayer.pdb
+C:\Users\cliente\calculetra\ProbabilityBussinessObjectLayer\obj\Debug\ProbabilityBussinessObjectLayer.csprojResolveAssemblyReference.cache
+C:\Users\cliente\calculetra\ProbabilityBussinessObjectLayer\obj\Debug\ProbabilityBussinessObjectLayer.dll
+C:\Users\cliente\calculetra\ProbabilityBussinessObjectLayer\obj\Debug\ProbabilityBussinessObjectLayer.pdb

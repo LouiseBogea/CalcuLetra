@@ -122,3 +122,8 @@ C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.Propert
 C:\calculaterathesis\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.GenerateResource.Cache
 C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.exe
 C:\calculaterathesis\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.pdb
+C:\Users\cliente\calculetra\EncrytpionDecryption\bin\Debug\EncrytpionDecryption.exe.config
+C:\Users\cliente\calculetra\EncrytpionDecryption\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\cliente\calculetra\EncrytpionDecryption\obj\Debug\FirstcalcuLetra.csproj.ResolveComReference.cache
+C:\Users\cliente\calculetra\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.exe
+C:\Users\cliente\calculetra\EncrytpionDecryption\obj\Debug\EncrytpionDecryption.pdb
